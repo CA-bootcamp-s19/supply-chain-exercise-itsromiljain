@@ -3,7 +3,7 @@ pragma solidity ^0.5.0;
 import "truffle/Assert.sol";
 import "truffle/DeployedAddresses.sol";
 import "../contracts/SupplyChain.sol";
-import "../contracts//Proxy.sol";
+import "./Proxy.sol";
 
 contract TestSupplyChain {
 
